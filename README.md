@@ -1,4 +1,4 @@
-# handy_little_scripts-bash-shell-
+# handy_little_scripts
 Record some of my handy scripts
 
 **to avoid potential comflict, all script start with "jc-"**
